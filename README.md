@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RamiShahazeh
+- 👀 I’m interested in web development and data analysis
+- 🌱 I’m currently learning Nodejs
+- 💞️ I’m looking to collaborate on sentiment analysis for Arabic tweets projects
+- 📫 How to reach me rami.shahade@gmail.com
